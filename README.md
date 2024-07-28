@@ -1,2 +1,2 @@
 # video-Journey
-A normal transition video 
+A normal transition video.
